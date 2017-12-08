@@ -38,17 +38,3 @@ comments: false
 
 * 微博：[起个什么昵称好难](http://weibo.com/u/2065592755)
 
-## 立个flag
-
-* 《java编程思想》
-* 《算法导论》
-* 《鸟哥的私房菜》
-
-
-### 本人在此郑重声明，毕业之前要好好研读这几本书，不然对不起买书的钱，虽然是盗版的！！！
-
-### 以下为本人所购盗版之书：
-
-![](https://i.imgur.com/kjpxpvf.jpg)
-![](https://i.imgur.com/rHyU7kf.jpg)
-![](https://i.imgur.com/awXRi1E.jpg)
